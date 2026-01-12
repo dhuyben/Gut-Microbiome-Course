@@ -47,7 +47,7 @@ library(dplyr)
 ## Working Directory Setup
 
 ```r
-setwd("C:/Users/davey/OneDrive - University of Guelph/16S data - all/201901_salmon")
+setwd("C:/path/201901_salmon")
 ```
 
 ---
