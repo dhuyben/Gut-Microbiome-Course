@@ -1,6 +1,6 @@
 
 # DADA2 Bioinformatic Pipeline  
-**2019 Salmon Gut Microbiome (V4 region, paired-end)**
+**2019 Salmon Gut Microbiome Course (V4 region, paired-end)**
 
 ## Overview
 This repository contains an R-based **DADA2 bioinformatic pipeline** for analysis of the salmon gut microbiome.
